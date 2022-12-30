@@ -1,8 +1,7 @@
 //
 //  Event.swift
-//  Skipper
 //
-//  Created by Denis Kovalev on 30.12.2022.
+//  Created by Denis Kovalev
 //
 
 import Combine
